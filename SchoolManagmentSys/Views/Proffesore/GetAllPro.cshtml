@@ -1,0 +1,58 @@
+﻿@model IEnumerable<SchoolManagmentSys.Models.Professor>
+
+@{
+    ViewData["Title"] = "GetAllPro";
+}
+
+<h1>Proffesores</h1>
+
+<p>
+    <a asp-controller="Proffesore" class="btn btn-primary" asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Pname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pemail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pphone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HireDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.department.Dname)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pemail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pphone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HireDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.department.Dname)
+            </td>
+            <td>
+                    <a class="btn btn-primary" asp-controller="Enrollment" asp-action="Edit" asp-route-id="@item.Pid">Edit</a>
+                    <a class="btn btn-primary" asp-controller="Enrollment" asp-action="Delete" asp-route-id="@item.Pid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

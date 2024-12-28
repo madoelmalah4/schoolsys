@@ -1,0 +1,57 @@
+﻿@model SchoolManagmentSys.ViewModels.ProffesoreModelView
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>ProffesoreModelView</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" asp-route-id="@Model.Pid" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Pname" class="control-label"></label>
+                <input asp-for="Pname" class="form-control" />
+                <span asp-validation-for="Pname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pemail" class="control-label"></label>
+                <input asp-for="Pemail" class="form-control" />
+                <span asp-validation-for="Pemail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pphone" class="control-label"></label>
+                <input asp-for="Pphone" class="form-control" />
+                <span asp-validation-for="Pphone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HireDate" class="control-label"></label>
+                <input asp-for="HireDate" class="form-control" />
+                <span asp-validation-for="HireDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Did" class="control-label"></label>
+                <select asp-for="Did" class="form-control">
+                      @foreach(var item in Model.departments)
+                      {
+                          <option value="@item.Did">@item.Dname</option>
+                      }
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="GetAllPro" class="btn btn-primary">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

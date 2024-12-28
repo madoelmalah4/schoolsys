@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MvcProjects\\SchoolManagmentSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\repository\\implementation\\professorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\repository\\implementation\\professorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\repository\\interfaces\\iproffesore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\repository\\interfaces\\iproffesore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\repository\\implementation\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\repository\\implementation\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\enrollment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\enrollment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\enrollment\\getallenroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\enrollment\\getallenroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\proffesore\\getallpro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\proffesore\\getallpro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\enrollment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\enrollment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\enrollment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\enrollment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\proffesore\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\proffesore\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\proffesore\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\proffesore\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\repository\\interfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\repository\\interfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\proffesore\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\proffesore\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\controllers\\proffesorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\controllers\\proffesorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\repository\\implementation\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\repository\\implementation\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\repository\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\repository\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\viewmodels\\proffesoremodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\viewmodels\\proffesoremodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\repository\\implementation\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\repository\\implementation\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\repository\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\repository\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\viewmodels\\enrollmentmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\viewmodels\\enrollmentmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\migrations\\20241228173139_mg30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\migrations\\20241228173139_mg30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|d:\\mvcprojects\\schoolmanagmentsys\\schoolmanagmentsys\\migrations\\20241228140810_mg14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A368F7A0-4892-4EB1-B805-51F07029BDF8}|SchoolManagmentSys\\SchoolManagmentSys.csproj|solutionrelative:schoolmanagmentsys\\migrations\\20241228140810_mg14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAB0AAACACgAAAIAYwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:54:59.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Proffesore\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Proffesore\\Create.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Proffesore\\Create.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Proffesore\\Create.cshtml",
+              "ViewState": "AgIAAA0AAADAMjMzMzMbwA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:18:14.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllPro.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Proffesore\\GetAllPro.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Proffesore\\GetAllPro.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Proffesore\\GetAllPro.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Proffesore\\GetAllPro.cshtml",
+              "ViewState": "AgIAACYAAAAAMjMzMzMLwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:24:45.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Interfaces\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Repository\\Interfaces\\IEnrollmentRepository.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Interfaces\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Repository\\Interfaces\\IEnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:52:23.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Proffesore\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Proffesore\\Delete.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Proffesore\\Delete.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Proffesore\\Delete.cshtml",
+              "ViewState": "AgIAABcAAAAgZmZmZmYkwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:39:12.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Implementation\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Repository\\Implementation\\EnrollmentRepository.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Implementation\\EnrollmentRepository.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Repository\\Implementation\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAA4AAACAZGZmZmYSwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:35:51.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProffesore.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Interfaces\\IProffesore.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Repository\\Interfaces\\IProffesore.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Interfaces\\IProffesore.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Repository\\Interfaces\\IProffesore.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:51:45.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfessoreRepository.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Implementation\\ProfessoreRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Repository\\Implementation\\ProfessoreRepository.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Implementation\\ProfessoreRepository.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Repository\\Implementation\\ProfessoreRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwDoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:47:34.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:10:09.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllEnroll.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Enrollment\\GetAllEnroll.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Enrollment\\GetAllEnroll.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Enrollment\\GetAllEnroll.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Enrollment\\GetAllEnroll.cshtml",
+              "ViewState": "AgIAABYAAABgZWZmZmYkwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T19:33:47.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Enrollment\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Enrollment\\Create.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Enrollment\\Create.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Enrollment\\Create.cshtml",
+              "ViewState": "AgIAABYAAACALTMzMzMLwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T19:39:56.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Enrollment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Enrollment\\Edit.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Enrollment\\Edit.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Enrollment\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAADAmJmZmRkWwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T19:51:52.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Enrollment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Enrollment\\Delete.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Enrollment\\Delete.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Enrollment\\Delete.cshtml",
+              "ViewState": "AgIAABYAAAAAZWZmZmYkwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T20:01:12.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAABcPRwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:10:32.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Proffesore\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Proffesore\\Edit.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Proffesore\\Edit.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Proffesore\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:51:36.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\Enrollment.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:19:47.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:54:38.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAABoAAACALjMzMzMbwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:08:00.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProffesoreController.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Controllers\\ProffesoreController.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Controllers\\ProffesoreController.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Controllers\\ProffesoreController.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Controllers\\ProffesoreController.cs",
+              "ViewState": "AgIAAEMAAACAAAAAAIASwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:55:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllStudents.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Student\\GetAllStudents.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Student\\GetAllStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:00:56.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAABkvS8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:04:42.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "SchoolManagmentSys\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAACkAAABAZmZmZiYgwDQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:41:18.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Repository\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Repository\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:51:28.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Implementation\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Repository\\Implementation\\StudentRepository.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Implementation\\StudentRepository.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Repository\\Implementation\\StudentRepository.cs",
+              "ViewState": "AgIAACIAAADAlZmZmZkjwC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:42:57.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Models\\Department.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\Department.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:21:05.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241228173139_mg30.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Migrations\\20241228173139_mg30.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Migrations\\20241228173139_mg30.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Migrations\\20241228173139_mg30.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Migrations\\20241228173139_mg30.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:31:39.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProffesoreModelView.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\ViewModels\\ProffesoreModelView.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\ViewModels\\ProffesoreModelView.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\ViewModels\\ProffesoreModelView.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\ViewModels\\ProffesoreModelView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:00:58.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Implementation\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Repository\\Implementation\\DepartmentRepository.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Implementation\\DepartmentRepository.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Repository\\Implementation\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAcAAABAZmZmZmYswBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:14:43.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Repository\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Repository\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Repository\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:14:13.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Models\\Professor.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\Professor.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Models\\Professor.cs",
+              "ViewState": "AgIAAAIAAADMMjMzMzMbwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:20:59.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Program.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Program.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:08:24.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EnrollmentModelView.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\ViewModels\\EnrollmentModelView.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\ViewModels\\EnrollmentModelView.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\ViewModels\\EnrollmentModelView.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\ViewModels\\EnrollmentModelView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:32:41.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Models\\Student.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:19:31.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241228140810_mg14.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Migrations\\20241228140810_mg14.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Migrations\\20241228140810_mg14.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Migrations\\20241228140810_mg14.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Migrations\\20241228140810_mg14.cs",
+              "ViewState": "AgIAAIcAAAAAyszMzMwmwJkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:08:10.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\Models\\Course.cs",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\Models\\Course.cs",
+              "RelativeToolTip": "SchoolManagmentSys\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:20:30.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagmentSys\\appsettings.json",
+              "ToolTip": "D:\\MvcProjects\\SchoolManagmentSys\\SchoolManagmentSys\\appsettings.json",
+              "RelativeToolTip": "SchoolManagmentSys\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T13:07:24.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
